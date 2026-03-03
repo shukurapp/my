@@ -1,0 +1,17 @@
+{
+  "title": "Xəbərlər",
+  "items": [
+    {
+      "id": 1,
+      "name": "Birinci xəbər",
+      "date": "2026-03-03",
+      "image": "https://picsum.photos/800/400?1"
+    },
+    {
+      "id": 2,
+      "name": "İkinci xəbər",
+      "date": "2026-03-02",
+      "image": "https://picsum.photos/800/400?2"
+    }
+  ]
+}
