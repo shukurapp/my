@@ -12,6 +12,12 @@
       "name": "İkinci xəbər",
       "date": "2026-03-02",
       "image": "https://picsum.photos/800/400?2"
+    },
+    {
+      "id": 3,
+      "name": "Üçüncü xəbər",
+      "date": "2026-03-02",
+      "image": "https://picsum.photos/800/400?2"
     }
   ]
 }
