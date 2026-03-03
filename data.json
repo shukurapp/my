@@ -18,6 +18,12 @@
       "name": "Üçüncü xəbər",
       "date": "2026-03-02",
       "image": "https://picsum.photos/800/400?2"
+    },
+    {
+      "id": 4,
+      "name": "Whatsapp news",
+      "date": "2026-03-02",
+      "image": "https://picsum.photos/800/400?2"
     }
   ]
 }
